@@ -1,7 +1,6 @@
 - 👋 Ciao, questo è il profilo di @FedericoCastellini
-- 👀 Studente 5 anno di informatica e telecomunicazioni
-- 🌱 Sto studiando in questo momento Java, Adroid Studio, PHP e Web Developer 
-- 💞️ Collaboro con la classe o da solo
+- 👀 Creo e porto avanti progetti come Airframe, Fito e Monsterdip
+- 🌱 Mi piace sviluppare idee e trasformarle in progetti concreti
 - 📫 Per cercarmi scrivimi una mail federicocastellini16@gmail.com
 
 <!---
